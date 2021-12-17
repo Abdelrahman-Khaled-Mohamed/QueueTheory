@@ -1,2 +1,2 @@
-<h1 align = "center">**Queueing Theory**</h1>
-#bkbi
+<h1 align = "center">Queueing Theory</h1>
+# bkbi
