@@ -9,7 +9,7 @@ The understanding and prediction of the stochastic behavior of these queues will
 - ### The Input Process:
   1. **The size of arriving population (infinite and finite).**
   2. **Arriving patterns:**
-     * Customers may arrive at a queueing system either in some regular pattern **(deterministic QS)** or in a totally random fashion **(stochastic QS)**.
+     * Customers may arrive at a queueing system either in some regular pattern **(Deterministic QS)** or in a totally random fashion **(Stochastic QS)**.
      * If customers arrive according to some random mode, then we need to fit a probability distribution to the arriving pattern in order to render the queueing analysis mathematically feasible.
      * The parameter that we commonly use to describe the arrival process is the *inter-arrival time* between two customers.
   3. **Behavior of arriving customers:**
