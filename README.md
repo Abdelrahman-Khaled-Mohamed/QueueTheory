@@ -6,16 +6,23 @@ The understanding and prediction of the stochastic behavior of these queues will
 > **Queueing Theory** is the study of queues comes under a discipline of *Operations Research*, and is a primary methodological framework for evaluating resource performance besides simulation.
 
 **Queueing System Components are:**
-- **The input process:**
+- **The Input Process:**
   1. **The size of arriving population (infinite and finite).**
   2. **Arriving patterns:**
      * Customers may arrive at a queueing system either in some regular pattern **(deterministic QS)** or in a totally random fashion **(stochastic QS)**.
      * If customers arrive according to some random mode, then we need to fit a probability distribution to the arriving pattern in order to render the queueing analysis mathematically feasible.
-     * The parameter that we commonly use to describe the arrival process is the inter-arrival time between two customers.
-  3. **Behavior of arriving customers.**
-- **The system structure:**
+     * The parameter that we commonly use to describe the arrival process is the *inter-arrival time* between two customers.
+  3. **Behavior of arriving customers:**
+     * **Blocking system:** If an arriving customer finds the system is full and leaves forever without entering the system.
+     * **Store and Forward System:** For example, if calls are placed in queues, it is referred to as “lost-calls-delayed” discipline.
+- **The System Structure:**
   1. **Physical number and layout of servers.**
   2. **The system capacity.**
-- **The output process:**
-  1. **Queueing discipline or serving discipline.**
-  2. **Service-time distribution.**
+- **The Output Process:**
+  1. **Queueing discipline or serving discipline:** The way in which customers in the waiting queue are selected for service.
+     * First-come-first-served (FCFS). 
+     * Last-come-first-served (LCFS).
+     * Priority.
+     * Processor sharing.
+     * Random.
+  2. **Service-time distribution:** Similar to arriving patterns.
