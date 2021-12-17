@@ -5,8 +5,8 @@ The understanding and prediction of the stochastic behavior of these queues will
 
 > **Queueing Theory** is the study of queues comes under a discipline of *Operations Research*, and is a primary methodological framework for evaluating resource performance besides simulation.
 
-**Queueing System Components are:**
-- **The Input Process:**
+## Queueing System Components
+- ### The Input Process:
   1. **The size of arriving population (infinite and finite).**
   2. **Arriving patterns:**
      * Customers may arrive at a queueing system either in some regular pattern **(deterministic QS)** or in a totally random fashion **(stochastic QS)**.
@@ -15,10 +15,10 @@ The understanding and prediction of the stochastic behavior of these queues will
   3. **Behavior of arriving customers:**
      * **Blocking system:** If an arriving customer finds the system is full and leaves forever without entering the system.
      * **Store and Forward System:** For example, if calls are placed in queues, it is referred to as “lost-calls-delayed” discipline.
-- **The System Structure:**
+- ### The System Structure:
   1. **Physical number and layout of servers.**
   2. **The system capacity.**
-- **The Output Process:**
+- ### The Output Process:
   1. **Queueing discipline or serving discipline:** The way in which customers in the waiting queue are selected for service.
      * First-come-first-served (FCFS). 
      * Last-come-first-served (LCFS).
@@ -26,3 +26,12 @@ The understanding and prediction of the stochastic behavior of these queues will
      * Processor sharing.
      * Random.
   2. **Service-time distribution:** Similar to arriving patterns.
+## Kendall Notation
+**David G. Kendall devised a shorthand notation to describe a queueing system containing a single waiting queue.**
+<h3 align = "center">A / B / X / Y / Z</h3>
+
+- **A:** Customer Arriving Pattern (*Inter-arrival-time* distribution).
+- **B:** Service Pattern (*Service-time* distribution).
+- **X:** Number of Parallel Servers.
+- **Y:** *System Capacity*.
+- **Z:** Queueing Discipline.
