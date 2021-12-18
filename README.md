@@ -100,3 +100,4 @@ Any deterministic queue has the following parameters:**
   * **Pn**.
 ### How it works?
 **After downloading the project and running it, it would be very easy to understand and use it.**
+### Screenshots:
