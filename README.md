@@ -36,7 +36,7 @@ The understanding and prediction of the stochastic behavior of these queues will
 - **Y:** *System Capacity*.
 - **Z:** Queueing Discipline.
 ## Queueing Models
-### DeterministicQS
+### DeterministicQS:
 **In this model the arriving patterns and the service time distributions are constants.<br>
 Any deterministic queue with the following parameters:**
 - **Constant arrival rate (λ):** ( the constant time between successive arrivals in which the *inter-arrival time* = 1/λ ).
