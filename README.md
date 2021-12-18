@@ -66,4 +66,4 @@ Any deterministic queue has the following parameters:**
 - **FIFO discipline.**
 ## About This Project
 ### Overview:
-**The modeling and analysis of waiting queues/networks is the main implemented subject in this project.**
+**The modeling and analysis of waiting queues is the main implemented subject in this project.**
