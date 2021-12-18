@@ -56,7 +56,7 @@ Any deterministic queue has the following parameters:**
 **Otherwise (λ ≤ μ):**
 - Here, we have a very simple situation since there is never more than one customer in the system.
 - It is only interesting to study this situation if we start the queueing process with initial customers M in the system.
-- The transient characteristics of this process will be studied here until it reaches its steady state.
+- The transient characteristics of this process will be studied here until it reaches its steady state (at **ti**).
 ### Stochastic QS:
 **Any stochastic queue has the following parameters:**
 - **Arrival rate (λ).**
@@ -69,5 +69,34 @@ Any deterministic queue has the following parameters:**
 **The modeling and analysis of waiting queues is the main implemented subject in this project.**
 ### Goals and Specifications:
 **The following Models were implemented, _using Java, Java Swing GUI and JavaFX GUI_, in the project:**
+- **_D / D / 1 / (K - 1)_: based on your inputs, the project can:**
+  * Calculate **ti**.
+  * Sketch **n(t)**: the number of customers in the system at time (t).
+  * Sketch **Wq(n)**: the time that the n-th customer must wait in the queue to get service.
+- **_M / M / 1_: based on your inputs, the project can calculate:**
+  * **L**: Expected number of the customers in the system.
+  * **Lq**: Expected number of the customers in the queue.
+  * **W**: Expected waiting time in the system.
+  * **Wq**: Expected waiting time in the queue.
+  * **Pn**: The fraction of time when system at state n.
+- **_M / M / 1 / K_: based on your inputs, the project can calculate:**
+  * **L**.
+  * **Lq**.
+  * **W**.
+  * **Wq**.
+  * **Pn**.
+- **_M / M / c_: based on your inputs, the project can calculate:**
+  * **L**.
+  * **Lq**.
+  * **W**.
+  * **Wq**.
+  * **Ci**: Average number of idle server.
+  * **Pn**.
+- **_M / M / c / K_: based on your inputs, the project can calculate:**
+  * **L**.
+  * **Lq**.
+  * **W**.
+  * **Wq**.
+  * **Pn**.
 ### How it works?
 **After downloading the project and running it, it would be very easy to understand and use it.**
