@@ -42,7 +42,7 @@ Any deterministic queue has the following parameters:**
 - **Constant arrival rate (λ):** ( the constant time between successive arrivals in which the *inter-arrival time* = 1/λ ).
 - **Constant rate of service (μ):** ( number of service completions per unit time when the server is busy; constant *service-time* = 1/μ ).
 - **A single server:** ( i.e. one service channel ).
-- **The system capacity (K – 1):** ( if a customer would increase the total number in the system to K, he will be refused to enter ).
+- **The system capacity (K – 1):** ( if a customer would increase the total number in the system to **K**, he will be refused to enter ).
 - **FIFO (or FCFS) discipline.**
 
 **So The queueing model is called _D / D / 1 / (K - 1) / FCFS_.**
