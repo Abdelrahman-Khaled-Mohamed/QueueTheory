@@ -46,3 +46,12 @@ Any deterministic queue has the following parameters:**
 - **FIFO (or FCFS) discipline.**
 
 **So The queueing model is called _D / D / 1 / (K - 1) / FCFS_.**
+**if λ > μ:**
+- The number of customers in the system will continue to increase indefinitely (i.e. unstable system).
+- The queueing system can be made stable by assuming that the **system capacity** is constant.
+- When the number of customers in the system reaches the **system capacity**, recent arriving customers will not be allowed to enter and they will never return (balking).
+- So the number of customers in the system will continue to increase until **ti** (where **ti** represents the time of occurrence of the first balk).
+**Otherwise:**
+- Here, we have a very simple situation since there is never more than one customer in the system.
+- It is only interesting to study this situation if we start the queueing process with initial customers M in the system.
+- The transient characteristics of this process will be studied here until it reaches its steady state.
