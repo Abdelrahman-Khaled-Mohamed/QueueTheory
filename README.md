@@ -101,3 +101,4 @@ Any deterministic queue has the following parameters:**
 ### How it works?
 **After downloading the project and running it, it would be very easy to understand and use it.**
 ### Screenshots:
+![Start Screen](https://user-images.githubusercontent.com/73803292/146626002-1af26044-2da7-450f-9ceb-5ce88abcf0c9.png)
