@@ -67,3 +67,7 @@ Any deterministic queue has the following parameters:**
 ## About This Project
 ### Overview:
 **The modeling and analysis of waiting queues is the main implemented subject in this project.**
+### Goals and Specifications:
+**The following Models were implemented, _using Java, Java Swing GUI and JavaFX GUI_, in the project:**
+### How it works?
+**After downloading the project and running it, it would be very easy to understand and use it.**
