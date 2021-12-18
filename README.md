@@ -36,7 +36,7 @@ The understanding and prediction of the stochastic behavior of these queues will
 - **Y:** *System Capacity*.
 - **Z:** Queueing Discipline.
 ## Queueing Models
-### DeterministicQS:
+### Deterministic QS:
 **In this model the arriving patterns and the service time distributions are constants.<br>
 Any deterministic queue has the following parameters:**
 - **Constant arrival rate (λ):** ( the constant time between successive arrivals in which the *inter-arrival time* = 1/λ ).
@@ -57,3 +57,10 @@ Any deterministic queue has the following parameters:**
 - Here, we have a very simple situation since there is never more than one customer in the system.
 - It is only interesting to study this situation if we start the queueing process with initial customers M in the system.
 - The transient characteristics of this process will be studied here until it reaches its steady state.
+### Stochastic QS:
+**Any stochastic queue has the following parameters:**
+- **Arrival rate (λ).**
+- **Service rate (μ).**
+- **One server or more (_c_ servers).**
+- **The system capacity:** ( infinite **(∞)** or finite **(K)** ).
+- **FIFO (or FCFS) discipline.**
