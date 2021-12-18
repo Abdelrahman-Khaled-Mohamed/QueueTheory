@@ -55,7 +55,7 @@ Any deterministic queue has the following parameters:**
 
 **Otherwise (λ ≤ μ):**
 - Here, we have a very simple situation since there is never more than one customer in the system.
-- It is only interesting to study this situation if we start the queueing process with initial customers M in the system.
+- It is only interesting to study this situation if we start the queueing process with initial customers **M** in the system.
 - The transient characteristics of this process will be studied here until it reaches its steady state (at **ti**).
 ### Stochastic QS:
 **Any stochastic queue has the following parameters:**
