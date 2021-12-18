@@ -1,4 +1,4 @@
-<h1 align = "center">Queueing Theory</h1>
+<h1 align = "center">Queueing Theory Project</h1>
 
 **Sharing of resources and waiting in queues is a common phenomenon that occurs in every facet of our lives.<br>
 The understanding and prediction of the stochastic behavior of these queues will provide a theoretical insight into the dynamics of these shared resources and how they can be designed to provide better utilization.<br>**
@@ -64,3 +64,6 @@ Any deterministic queue has the following parameters:**
 - **One server or more (_c_ servers).**
 - **The system capacity:** ( infinite **(∞)** or finite **(K)** system capacity ).
 - **FIFO discipline.**
+## About This Project
+### Overview:
+**The modeling and analysis of waiting queues/networks is the main implemented subject in this project.**
