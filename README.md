@@ -63,4 +63,4 @@ Any deterministic queue has the following parameters:**
 - **Service rate (μ).**
 - **One server or more (_c_ servers).**
 - **The system capacity:** ( infinite **(∞)** or finite **(K)** system capacity ).
-- **FIFO (or FCFS) discipline.**
+- **FIFO discipline.**
