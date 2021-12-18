@@ -101,12 +101,12 @@ Any deterministic queue has the following parameters:**
 ### How it works?
 **After downloading the project and running it, it would be very easy to understand and use it.**
 ### Screenshots:
-<p align="center"><img src="https://user-images.githubusercontent.com/73803292/146626002-1af26044-2da7-450f-9ceb-5ce88abcf0c9.png" alt="Start Screen"></p>
-
-![Start Screen](https://user-images.githubusercontent.com/73803292/146626002-1af26044-2da7-450f-9ceb-5ce88abcf0c9.png)
-<br>![Deterministic Input Screen](https://user-images.githubusercontent.com/73803292/146626028-7ef39dc4-a709-40d4-b630-9ac6094c8501.png)
-<br>![Deterministic Output Screen **(if λ > μ)**](https://user-images.githubusercontent.com/73803292/146626055-77858c53-d08e-4218-a6f6-aae128e40d3b.png)
-![Deterministic Output Screen **(if λ ≤ μ)**](https://user-images.githubusercontent.com/73803292/146626094-aef1fe27-97a3-429c-b866-007fffdfd4b4.png)
-![Stochastic Input Screen](https://user-images.githubusercontent.com/73803292/146626124-8a1f3b64-a368-4c8c-b1d7-fdc9c47f257f.png)
-![M_M_cInputScreen](https://user-images.githubusercontent.com/73803292/146626159-24523052-1725-432e-b5fb-a1a44e1e1d42.png)
-![M_M_cOutnputScreen](https://user-images.githubusercontent.com/73803292/146626170-0fda8cb0-7da6-490d-b3f0-69665a974796.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73803292/146626002-1af26044-2da7-450f-9ceb-5ce88abcf0c9.png" alt="Start Screen">
+  <br><img src="https://user-images.githubusercontent.com/73803292/146626028-7ef39dc4-a709-40d4-b630-9ac6094c8501.png" alt="Deterministic Input Screen">
+  <br><img src="https://user-images.githubusercontent.com/73803292/146626055-77858c53-d08e-4218-a6f6-aae128e40d3b.png" alt="Deterministic Output Screen (if λ > μ)">
+  <br><img src="https://user-images.githubusercontent.com/73803292/146626094-aef1fe27-97a3-429c-b866-007fffdfd4b4.png" alt="Deterministic Output Screen (if λ ≤ μ)">
+  <br><img src="https://user-images.githubusercontent.com/73803292/146626124-8a1f3b64-a368-4c8c-b1d7-fdc9c47f257f.png" alt="Stochastic Input Screen">
+  <br><img src="https://user-images.githubusercontent.com/73803292/146626159-24523052-1725-432e-b5fb-a1a44e1e1d42.png" alt="M/M/c Input Screen">
+  <br><img src="https://user-images.githubusercontent.com/73803292/146626170-0fda8cb0-7da6-490d-b3f0-69665a974796.png" alt="M/M/c Output Screen">
+</p>
