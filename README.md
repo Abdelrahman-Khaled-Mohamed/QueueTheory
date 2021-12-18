@@ -90,7 +90,7 @@ Any deterministic queue has the following parameters:**
   * **Lq**.
   * **W**.
   * **Wq**.
-  * **Ci**: Average number of idle server.
+  * **Ci**: Average number of idle servers.
   * **Pn**.
 - **_M / M / c / K_: based on your inputs, the project can calculate:**
   * **L**.
