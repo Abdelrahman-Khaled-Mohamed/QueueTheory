@@ -20,10 +20,10 @@ The understanding and prediction of the stochastic behavior of these queues will
   2. **The system capacity.**
 - ### The Output Process:
   1. **Queueing discipline or serving discipline:** The way in which customers in the waiting queue are selected for service.
-     * First-come-first-served (FCFS). 
-     * Last-come-first-served (LCFS).
+     * First-Come-First-Served (FCFS). 
+     * Last-Come-First-Served (LCFS).
      * Priority.
-     * Processor sharing.
+     * Processor Sharing.
      * Random.
   2. **Service-time distribution:** Similar to arriving patterns.
 ## Kendall Notation
@@ -43,6 +43,6 @@ Any deterministic queue has the following parameters:**
 - **Constant rate of service (μ):** ( number of service completions per unit time when the server is busy; constant *service-time* = 1/μ ).
 - **A single server:** ( i.e. one service channel ).
 - **The system capacity (K – 1):** ( if a customer would increase the total number in the system to K, he will be refused to enter ).
-- **FIFO discipline.**
+- **FIFO (or FCFS) discipline.**
 
 **So The queueing model is called _D / D / 1 / (K - 1) / FCFS_.**
