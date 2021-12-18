@@ -44,4 +44,5 @@ Any deterministic queue has the following parameters:**
 - **A single server:** ( i.e. one service channel ).
 - **The system capacity (K – 1):** ( if a customer would increase the total number in the system to K, he will be refused to enter ).
 - **FIFO discipline.**
-**<br>So The queueing model is called _D / D / 1 / (K - 1) / FCFS_.**
+
+**So The queueing model is called _D / D / 1 / (K - 1) / FCFS_.**
