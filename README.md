@@ -38,6 +38,6 @@ The understanding and prediction of the stochastic behavior of these queues will
 ## Queueing Models
 ### DeterministicQS:
 **In this model the arriving patterns and the service time distributions are constants.<br>
-Any deterministic queue with the following parameters:**
+Any deterministic queue has the following parameters:**
 - **Constant arrival rate (λ):** ( the constant time between successive arrivals in which the *inter-arrival time* = 1/λ ).
 - **Constant rate of service (μ):** ( number of service completions per unit time when the server is busy; constant *service-time* = 1/μ ).
