@@ -101,6 +101,8 @@ Any deterministic queue has the following parameters:**
 ### How it works?
 **After downloading the project and running it, it would be very easy to understand and use it.**
 ### Screenshots:
+<p align="center"><img src="https://user-images.githubusercontent.com/73803292/146626002-1af26044-2da7-450f-9ceb-5ce88abcf0c9.png" alt="Start Screen"></p>
+
 ![Start Screen](https://user-images.githubusercontent.com/73803292/146626002-1af26044-2da7-450f-9ceb-5ce88abcf0c9.png)
 <br>![Deterministic Input Screen](https://user-images.githubusercontent.com/73803292/146626028-7ef39dc4-a709-40d4-b630-9ac6094c8501.png)
 <br>![Deterministic Output Screen **(if λ > μ)**](https://user-images.githubusercontent.com/73803292/146626055-77858c53-d08e-4218-a6f6-aae128e40d3b.png)
